@@ -25,7 +25,6 @@
 
 #include <ddrawi.h>
 
-#include <ddrawgdi.h>
 #include <advpub.h>
 //#include <comppkgsup.h>
 #include <ime.h>

@@ -34,9 +34,6 @@ LPENCLAVE_ROUTINE
 --traverse
 <IncludeRoot>/um/dbt.h
 <IncludeRoot>/shared/ioevent.h
-<IncludeRoot>/um/d3dnthal.h
-<IncludeRoot>/um/d3dcaps.h
-<IncludeRoot>/um/d3dtypes.h
 <IncludeRoot>/shared/wtypes.h
 <IncludeRoot>/um/rpcnsip.h
 <IncludeRoot>/um/minwinbase.h
